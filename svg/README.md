@@ -22,11 +22,13 @@ https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/idea.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/java.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/javascript.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/jquery.svg
+https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/kotlin.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/kubernetes.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/leetcode.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/linkedin.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/linux.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/manjaro.svg
+https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/mariadb.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/markdown.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/mongodb.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/mysql.svg
@@ -38,6 +40,7 @@ https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/pycharm.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/python.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/qq.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/rabbitmq.svg
+https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/README.md
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/redis.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/rss.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/spring.svg
@@ -47,6 +50,8 @@ https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/telegram.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/tumblr.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/twitter.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/typora.svg
+https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/vim.svg
+https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/vscode.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/webstorm.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/wechat.svg
 https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/svg/weibo.svg
